@@ -59,7 +59,7 @@ st.markdown("**3rd Place in Trailblazer Cup 2025**")
 st.markdown("**1st place in Lawn Ball Men's Category of KRISMA 2025**")
 st.markdown("**Dean's Award: Semester 1, 2, and 5**")
 
-#Club and Societies 
+#Activities and Societies 
 st.header("♟️ Activities and Societies")
 st.markdown("**Information Technology Club (SST) 24/25**")
 st.markdown("**Position:** President")
@@ -67,4 +67,4 @@ st.markdown("**Acedemic Ambassador of FSDK 24/25**")
 st.markdown("**Member of the Student Conference Board 24/25**")
 st.markdown("**Genius Madani @ SMK Machang 2025**")
 st.markdown("**Position:** Chief Facilitator") 
-
+st.markdown("**Jom Masuk U 2024 Zon Timur 1**")
