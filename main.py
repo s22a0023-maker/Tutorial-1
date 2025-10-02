@@ -46,25 +46,25 @@ with col4:
     st.markdown("- UI/UX Design & Prototyping") 
 
 #Project
-st.header("Projects")
-st.subheader("Smart Macaque Detection & Live Tracking")
+st.header("💻 Projects")
+st.subheader("Smart Macaque Detection Live Tracking Cage Monitoring Through CCTV Applications")
 st.markdown("""
 Developed a **real-time monkey detection system** using **YOLOv11**,  
 optimized for deployment on **CCTV video surveillance feeds** in urban, agricultural, and forest-edge environments.
 """)
 
 #Achievements 
-st.header("Achievements") 
+st.header("🎯 Achievements") 
 st.markdown("**3rd Place in Trailblazer Cup 2025**")
 st.markdown("**1st place in Lawn Ball Men's Category of KRISMA 2025**")
 st.markdown("**Dean's Award: Semester 1, 2, and 5**")
 
 #Club and Societies 
-st.header("Activities and Societies")
-st.markdown("**Information Technology Club (SST) 24/25**")
+st.header("♟️ Activities and Societies")
+st.markdown("*Information Technology Club (SST) 24/25*")
 st.markdown("**Position:** President")
-st.markdown("**Acedemic Ambassador of FSDK 24/25**")
-st.markdown("**Member of the Student Conference Board 24/25**")
-st.markdown("**Genius Madani @ SMK Machang 2025**")
+st.markdown("*Acedemic Ambassador of FSDK 24/25*")
+st.markdown("*Member of the Student Conference Board 24/25*")
+st.markdown("*Genius Madani @ SMK Machang 2025*")
 st.markdown("**Position:** Chief Facilitator") 
 
