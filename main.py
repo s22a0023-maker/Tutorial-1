@@ -15,9 +15,9 @@ with col2:
     st.title("YUSRI BIN RAZALI")
     st.markdown("**Internship Resume Page**")
     st.markdown(""" 
-    📧 **Email:** yuyie047@gmail.com
-    📞 **Phone:** +60 19651 9305
-    🔗 **LinkedIn:** (https://www.linkedin.com/in/yusri-razali-b659502a8/) 
+    -📧 **Email:** yuyie047@gmail.com
+    -📞 **Phone:** +60 19651 9305
+    -🔗 **LinkedIn:** (https://www.linkedin.com/in/yusri-razali-b659502a8/) 
     """)
 
 #Education
@@ -63,10 +63,10 @@ st.markdown("**Dean's Award: Semester 1, 2, and 5**")
 
 #Club and Societies 
 st.header("Activities and Societies")
-st.subheader("**Information Technology Club (SST) 24/25**")
+st.markdown("**Information Technology Club (SST) 24/25**")
 st.markdown("**Position:** President")
-st.subheader("**Acedemic Ambassador of FSDK 24/25**")
-st.subheader("**Member of the Student Conference Board 24/25**")
-st.subheader("**Genius Madani @ SMK Machang 2025**")
+st.markdown("**Acedemic Ambassador of FSDK 24/25**")
+st.markdown("**Member of the Student Conference Board 24/25**")
+st.markdown("**Genius Madani @ SMK Machang 2025**")
 st.markdown("**Position:** Chief Facilitator") 
 
