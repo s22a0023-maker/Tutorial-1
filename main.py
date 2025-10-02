@@ -12,13 +12,11 @@ with col1:
         st.warning("profile.jpg not found. Please place it in the same folder as this app.")
 
 with col2:
-    st.title("YUSRI BIN RAZALI")
-    st.markdown("**Internship Resume Page**")
-    st.markdown(""" 
-    -**Email:** yuyie047@gmail.com
-    -**Phone:** +60 19651 9305
-    -**LinkedIn:** (https://www.linkedin.com/in/yusri-razali-b659502a8/) 
-    """)
+    st.title("Internship Resume Page")
+    st.markdown("**Yusri Bin Razali**")
+    st.markdown("📧**Email:** yuyie047@gmail.com")
+    st.markdown("📞**Phone:** +60 19651 9305")
+    st.markdown("🔗**LinkedIn:** (https://www.linkedin.com/in/yusri-razali-b659502a8/)")
 
 #Education
 st.header("🎓 Education")
