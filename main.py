@@ -15,9 +15,9 @@ with col2:
     st.title("YUSRI BIN RAZALI")
     st.markdown("**Internship Resume Page**")
     st.markdown(""" 
-    -📧 **Email:** yuyie047@gmail.com
-    -📞 **Phone:** +60 19651 9305
-    -🔗 **LinkedIn:** (https://www.linkedin.com/in/yusri-razali-b659502a8/) 
+    -**Email:** yuyie047@gmail.com
+    -**Phone:** +60 19651 9305
+    -**LinkedIn:** (https://www.linkedin.com/in/yusri-razali-b659502a8/) 
     """)
 
 #Education
