@@ -6,8 +6,8 @@ col1, col2 = st.columns([1, 3])
 
 with col1:
     # Use local image (must be in same folder as app.py)
-    if os.path.exists("C:\Users\user\Pictures\Saved Pictures\desktop-wallpaper-banana-food-hq-banana.jpg"):
-        st.image("C:\Users\user\Pictures\Saved Pictures\desktop-wallpaper-banana-food-hq-banana.jpg", caption="Yusri Bin Razali", width=180)
+    if os.path.exists("profile.jpg"):
+        st.image("profile.jpg", caption="Yusri Bin Razali", width=180)
     else:
         st.warning("profile.jpg not found. Please place it in the same folder as this app.")
 
