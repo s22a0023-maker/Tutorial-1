@@ -1,11 +1,15 @@
 import streamlit as st
 
-st.title("YUSRI BIN RAZALI - Internship Applications")
-st.header("Contact Information")
+col1 = st.columns([1,3])
+with col1:
+  st.title("YUSRI BIN RAZALI - Internship Applications")
 
-st.write("Email: yuyie047@gmail.com")
-st.write("Phone: +60 19651 9305")
-st.write("LinkedIn: https://www.linkedin.com/in/yusri-razali-b659502a8/") 
+st.header("Contact Information")
+st.markdown(""" 
+- **Email:** yuyie047@gmail.com
+- **Phone:** +60 19651 9305
+- **"LinkedIn:** (https://www.linkedin.com/in/yusri-razali-b659502a8/) 
+""")
 
 st.header("Education")
 st.write("Bachelor of Information Technology with Honors - Artificial Intelligence Track, Universiti Malaysia Kelantan (UMK), Year 4") 
