@@ -2,9 +2,9 @@ import streamlit as st
 
 col1, col2 = st.columns([1,3])
 with col1:
-  st.image("profile.jpg", caption="Yusri Bin Razali", width=180)
+    st.image("profile.jpg", caption="Yusri Bin Razali", width=180)
 with col2:
-  st.title("YUSRI BIN RAZALI - Internship Applications")
+    st.title("YUSRI BIN RAZALI - Internship Applications")
 
 st.header("Contact Information")
 st.markdown(""" 
