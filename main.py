@@ -55,7 +55,7 @@ optimized for deployment on **CCTV video surveillance feeds** in urban, agricult
 
 # Project image
 if os.path.exists("project.jpg"):
-    st.image("project.jpg", caption="Smart Macaque Detection System", use_column_width=True)
+    st.image("project.jpg", caption="Smart Macaque Detection System", use_container_width=True)
 else:
     st.warning("project.jpg not found. Please place it in the same folder as this app.")
 
