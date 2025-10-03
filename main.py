@@ -53,6 +53,12 @@ Developed a **real-time monkey detection system** using **YOLOv11**,
 optimized for deployment on **CCTV video surveillance feeds** in urban, agricultural, and forest-edge environments.
 """)
 
+# Project image
+if os.path.exists("project_demo.jpg"):
+    st.image("project.jpg", caption="Smart Macaque Detection System", use_column_width=True)
+else:
+    st.warning("project.jpg not found. Please place it in the same folder as this app.")
+
 #Achievements 
 st.header("🎯 Achievements") 
 st.markdown("**3rd Place in Trailblazer Cup 2025**")
